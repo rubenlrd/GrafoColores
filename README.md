@@ -1,3 +1,3 @@
 # GrafoColores
-Repositorio creado
+Repositorio creado y cargado
 
