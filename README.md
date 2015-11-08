@@ -1,2 +1,3 @@
 # GrafoColores
-Creando Repositorio
+Repositorio creado
+
